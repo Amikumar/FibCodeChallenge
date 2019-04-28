@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibSequenceGenerator", "ConsoleApp4\FibSequenceGenerator.csproj", "{69EA8C68-25C9-4C43-886E-2941A19388A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibSequenceGenerator", "CodeChallenge\FibSequenceGenerator.csproj", "{69EA8C68-25C9-4C43-886E-2941A19388A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
